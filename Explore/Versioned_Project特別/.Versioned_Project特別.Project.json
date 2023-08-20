@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "aiM1Qxtxb8dc8DCmObbgoZ",
+    "name" : "Versioned_Project特別",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-08-20T00:02:28.334Z",
+  "objectRefs" : [ ]
+}
